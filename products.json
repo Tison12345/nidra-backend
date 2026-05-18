@@ -1,0 +1,72 @@
+[
+  {
+    "name": "Shankhpushpi Mind Calm Syrup",
+    "price": 379,
+    "description": "Ayurvedic syrup for calming nervous tension, quieting mental chatter, and supporting restful sleep.",
+    "tags": ["stress", "sleep", "calm", "syrup", "ayurveda"],
+    "handle": "shankhpushpi-mind-calm-syrup"
+  },
+  {
+    "name": "Jatamansi Sleep Drops",
+    "price": 449,
+    "description": "Fast-acting Ayurvedic drops that may support nervous system relaxation and sleep quality.",
+    "tags": ["stress", "sleep", "nervine", "drops", "ayurveda"],
+    "handle": "jatamansi-sleep-drops"
+  },
+  {
+    "name": "Triphala Detox & Sleep Tea",
+    "price": 199,
+    "description": "Herbal sleep tea supporting digestion, detox, and restful nighttime routines.",
+    "tags": ["sleep", "tea", "digestion", "stress", "ayurveda"],
+    "handle": "triphala-detox-sleep-tea"
+  },
+  {
+    "name": "Ashwagandha Stress Relief Capsules",
+    "price": 399,
+    "description": "Adaptogenic Ayurvedic capsules that may support stress resilience and deeper sleep.",
+    "tags": ["stress", "sleep", "ashwagandha", "capsules"],
+    "handle": "ashwagandha-stress-relief-capsules"
+  },
+  {
+    "name": "Brahmi Mind Relax Oil",
+    "price": 299,
+    "description": "Calming Ayurvedic scalp oil for nighttime relaxation and mental calm.",
+    "tags": ["stress", "sleep", "brahmi", "oil"],
+    "handle": "brahmi-mind-relax-oil"
+  },
+  {
+    "name": "Tagar Deep Sleep Tablets",
+    "price": 329,
+    "description": "Ayurvedic herbal tablets traditionally used to support calmness and sleep.",
+    "tags": ["sleep", "stress", "tagar", "tablets"],
+    "handle": "tagar-deep-sleep-tablets"
+  },
+  {
+    "name": "Lavender Nidra Bath Salts",
+    "price": 249,
+    "description": "Relaxing aromatic bath salts for calming evening rituals.",
+    "tags": ["sleep", "stress", "lavender", "bath"],
+    "handle": "lavender-nidra-bath-salts"
+  },
+  {
+    "name": "Night Calm Herbal Powder",
+    "price": 549,
+    "description": "Ayurvedic nighttime herbal blend that may support relaxation before sleep.",
+    "tags": ["sleep", "stress", "powder", "herbal"],
+    "handle": "night-calm-herbal-powder"
+  },
+  {
+    "name": "Chamomile Sleep Infusion",
+    "price": 279,
+    "description": "Caffeine-free calming herbal infusion for bedtime routines.",
+    "tags": ["sleep", "tea", "calm", "stress"],
+    "handle": "chamomile-sleep-infusion"
+  },
+  {
+    "name": "Sleep Ritual Wellness Kit",
+    "price": 999,
+    "description": "Complete Ayurvedic sleep wellness bundle for stress and relaxation.",
+    "tags": ["sleep", "stress", "bundle", "wellness"],
+    "handle": "sleep-ritual-wellness-kit"
+  }
+]
